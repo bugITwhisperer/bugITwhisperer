@@ -1,16 +1,16 @@
 Currently learning
 
-![TS](https://img.shields.io/badge/Code-TypeScript-323330?style=plastic&logo=typescript&logoColor=F7DF1E) ![TS](https://img.shields.io/badge/Framework-Playwright-323330?style=plastic&logo=Playwright&logoColor=F7DF1E)
+![TS](https://img.shields.io/badge/Code-TypeScript-323330?style=plastic&logo=typescript&logoColor=F7DF1E&color=darkgray) ![TS](https://img.shields.io/badge/Framework-Playwright-323330?style=plastic&logo=Playwright&logoColor=F7DF1E&color=darkgray)
 
-![.NET](https://img.shields.io/badge/.NET-323330?style=plasti&logo=.net&logoColor=white) ![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=F7DF1E&color=darkgray) ![.NET](https://img.shields.io/badge/Framework-.NET-323330?style=plastic&logo=.net&logoColor=F7DF1E&color=darkgray) ![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E&color=darkgray)
 
 ---
 Currently in use
 
-![JS](https://img.shields.io/badge/Code-JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![Cypress](https://img.shields.io/badge/Framework-Cypress-323330?style=plastic&logo=Cypress&logoColor=F7DF1E)
-![.NET](https://img.shields.io/badge/.NET-323330?style=plasti&logo=.net&logoColor=white) 
-![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E)
+![JS](https://img.shields.io/badge/Code-JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E&color=darkgray)
+![Cypress](https://img.shields.io/badge/Framework-Cypress-323330?style=plastic&logo=Cypress&logoColor=F7DF1E&color=darkgray)
+![C#](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=F7DF1E&color=darkgray) ![.NET](https://img.shields.io/badge/Framework-.NET-323330?style=plastic&logo=.net&logoColor=F7DF1E&color=darkgray) 
+![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E&color=darkgray)
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
