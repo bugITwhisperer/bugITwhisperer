@@ -1,3 +1,5 @@
+# [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.md) [![pl](https://img.shields.io/badge/lang-pl-green.svg)](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.pl.md) Hey!
+
 <h2 align="left">:open_book: Currently learning</h2>
 <div id="learning-now-badges">
   
