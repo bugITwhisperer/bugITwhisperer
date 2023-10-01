@@ -1,4 +1,4 @@
-<h2 align="left">:memo: Trainings && Courses</h2>
+<h2 align="left">:memo: Trainings, Courses, Activities</h2>
 <div id="trainings-courses">
   <h3>2023</h3>
   <div id="2023">
@@ -7,6 +7,7 @@
 | - | - | - |
 | [Automated Testing with&nbsp;Playwright&nbsp;(PL)](https://jaktestowac.pl/playwright/)    | Krzysztof Kijas, Przemek Barański | [Future-Processing](https://www.future-processing.com/) |
 | [Continous Integration in&nbsp;Cloud&nbsp;(PL)](https://jaktestowac.pl/integracja/)       | Krzysztof Kijas, Przemek Barański | [Future-Processing](https://www.future-processing.com/) |
+| [Ready Player 50 - AI prompt hacking game&nbsp;(EN)](https://cs50.harvard.edu/x/2023/ready/)| n/a | [Harvard University](https://cs50.harvard.edu) |
   </div>
 </div>
 
