@@ -1,4 +1,4 @@
-# [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.md) Cześć!
+# [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.md) Cześć 👋
 
 <h2 align="left">:open_book: Uczę się</h2>
 <div id="learning-now-badges">
@@ -37,5 +37,8 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-white?style=plastic&logo=sonarqube&logoColor=4E9BCD&color=white)
 
 ![Postman](https://img.shields.io/badge/REST%20API-Postman-informational?style=plastic&logo=postman&logoColor=orange&color=orange)
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/rkfGOgVDQBqcjlfRSt_4KA"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/rkfGOgVDQBqcjlfRSt_4KA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">15 days of Postman - for testers</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Przyznano odznakę <- <a target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FrkfGOgVDQBqcjlfRSt_4KA">sprawdź</a></strong><p/></blockquote>
 </div>
+
+<h2 align="left">💻 Ciągle się rozwijam i dzielę wiedzą </h2>
+
+Więcej info [tutaj](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.activities.md)
