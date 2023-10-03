@@ -38,4 +38,4 @@
 
 <h2 align="left">💻 Continuous learning && knowledge sharing activities</h2> 
 
-More of my learning activities [here](https://github.com/bugITwhisperer/bugITwhisperer/main/README.activities.md)
+More of my learning activities [here](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.activities.md)
