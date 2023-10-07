@@ -5,7 +5,7 @@
     
 | Status | Type | Name | Trainer/Author | Organisation |
 | - | - | - | - | - |
-| | self-paced course | [(PL)&nbsp;Safe Programmer](https://sklep.szurek.tv/bezpieczny-programista) | [Kacper Szurek](https://www.linkedin.com/in/kacperszurek/) | n/a |
+| | self-paced course | [(PL)&nbsp;Safe Programmer (Bezpieczny programista)](https://sklep.szurek.tv/bezpieczny-programista) | [Kacper Szurek](https://www.linkedin.com/in/kacperszurek/) | n/a |
 | | book | [(PL)&nbsp;Hacking APIs: Breaking Web Application Programming Interfaces](https://helion.pl/ksiazki/hakowanie-interfejsow-api-lamanie-interfejsow-programowania-aplikacji-internetowych-corey-j-ball,hakint.htm) | Corey J. Ball | n/a |
   
   
