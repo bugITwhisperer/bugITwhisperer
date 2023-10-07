@@ -9,6 +9,8 @@
 ![C#](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=F7DF1E&color=darkgray) ![.NET](https://img.shields.io/badge/Framework-.NET-323330?style=plastic&logo=.net&logoColor=F7DF1E&color=darkgray) ![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E&color=darkgray)
 </div>
 
+More activities [here](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.activities.md)
+
 <h2 align="left">:briefcase: Currently in use @work</h2>
 <h3 align="left">:rainbow_flag: Languages && Frameworks </h3>
 <div id="in-use-badges">
@@ -35,7 +37,3 @@
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-white?style=plastic&logo=opensearch&logoColor=4E9BCD&color=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-white?style=plastic&logo=sonarqube&logoColor=4E9BCD&color=white)
 </div>
-
-<h2 align="left">💻 Continuous learning && knowledge sharing activities</h2> 
-
-More of my learning activities [here](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.activities.md)
