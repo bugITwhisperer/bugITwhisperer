@@ -1,4 +1,4 @@
-<h2 align="left">:memo: Continuous learning && knowledge sharing activities</h2>
+<h2 align="left">🎓📚 Continuous learning && knowledge sharing activities</h2>
 <div id="trainings-courses">
   <h3>2024</h3>
   <div id="2024">
@@ -14,15 +14,15 @@
     
 | Status | Type | Name | Trainer/Author | Organisation |
 | - | - | - | - | - |
-| | self-paced course | [(PL)&nbsp;Automated Testing with&nbsp;Playwright](https://jaktestowac.pl/playwright/) | [Krzysztof Kijas](https://www.linkedin.com/in/krzysztof-kijas/), [Przemek Barański](https://www.linkedin.com/in/przemyslaw-baranski/) | [Future-Processing](https://www.future-processing.com/) |
-|| self-paced course | [(PL)&nbsp;Continuous Integration -&nbsp;CI](https://jaktestowac.pl/integracja/) | [Krzysztof Kijas](https://www.linkedin.com/in/krzysztof-kijas/), [Przemek Barański](https://www.linkedin.com/in/przemyslaw-baranski/) | [Future-Processing](https://www.future-processing.com/) |
+|🚧| self-paced course | [(PL)&nbsp;Automated Testing with&nbsp;Playwright (Playwright praktyczne wprowadzenie do testów automatycznych)](https://jaktestowac.pl/playwright/) | [Krzysztof Kijas](https://www.linkedin.com/in/krzysztof-kijas/), [Przemek Barański](https://www.linkedin.com/in/przemyslaw-baranski/) | [Future-Processing](https://www.future-processing.com/) |
+|🚧| self-paced course | [(PL)&nbsp;Continuous Integration -&nbsp;CI<br>(Ciągła Integracja w&nbsp;Chmurze)</br>](https://jaktestowac.pl/integracja/) | [Krzysztof Kijas](https://www.linkedin.com/in/krzysztof-kijas/), [Przemek Barański](https://www.linkedin.com/in/przemyslaw-baranski/) | [Future-Processing](https://www.future-processing.com/) |
 |✔️| Postman challenge | [(EN)&nbsp;15 Days of Postman - for testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview) | n/a | Postman |
 |✔️| award | the most active Discord member 07/2023 | me/Emilia Miller | [Adam Gola](https://www.linkedin.com/in/adamgola/)'s Discord&nbsp;Community|
 |✔️| knowledge-sharing session | (PL)&nbsp;Introduction to API and Postman | me/Emilia Miller | [Adam Gola](https://www.linkedin.com/in/adamgola/)'s Discord&nbsp;Community|
 |✔️| book | [(EN)&nbsp;Leading Quality: How Great Leaders Deliver High Quality Software and Accelerate Growth](https://www.amazon.com/Leading-Quality-Leaders-Software-Accelerate/dp/1916185800) | Ronald Cummings-John, Owais Peer | n/a |
 |✔️| book | [(PL)&nbsp;Goal: Quality. How to avoid bugs in a project (Kierunek Jakość. Jak unikać błędów w projekcie)](https://helion.pl/ksiazki/kierunek-jakosc-jak-unikac-bledow-w-projekcie-aleksandra-kunysz,jaktob.htm) | [Aleksandra Kunysz](https://github.com/PeggyBrown) | n/a |
 |✔️| AI prompt hacking game | [(EN)&nbsp;Ready Player 50](https://cs50.harvard.edu/x/2023/ready/) | n/a | [Harvard University](https://cs50.harvard.edu) |
-|  |open-source contributions | [(EN)&nbsp;HacktoberFest 2023](https://hacktoberfest.com/) | me/Emilia Miller | DigitalOcean, ILLA Cloud and&nbsp;Appwrite |
+|🚧|open-source contributions | [(EN)&nbsp;HacktoberFest 2023](https://hacktoberfest.com/) | me/Emilia Miller | DigitalOcean, ILLA Cloud and&nbsp;Appwrite |
   </div>
 </div>
 
@@ -33,7 +33,7 @@
 </div></strong>
 
 <b>#Hacktoberfest Badges</b>
-[![@bugitwhisperer's Holopin badges](https://holopin.me/bugitwhisperer)](https://holopin.io/@bugitwhisperer)
+[![@bugitwhisperer's Holopin badges](https://holopin.me/bugITwhisperer)](https://holopin.io/@bugitwhisperer)
 
 <h3>2022</h3>
   <div id="2022">
