@@ -8,6 +8,8 @@
 
 ![C#](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=F7DF1E&color=darkgray) ![.NET](https://img.shields.io/badge/Framework-.NET-323330?style=plastic&logo=.net&logoColor=F7DF1E&color=darkgray) ![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E&color=darkgray)
 
+Więcej info o moich aktywnościach [tutaj](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.activities.md)
+
 </div>
 <h2 align="left">:briefcase: Używam w pracy</h2>
 <h3 align="left">:rainbow_flag: Języki programowania i frameworki </h3>
@@ -38,7 +40,3 @@
 
 ![Postman](https://img.shields.io/badge/REST%20API-Postman-informational?style=plastic&logo=postman&logoColor=orange&color=orange)
 </div>
-
-<h2 align="left">💻 Ciągle się rozwijam i dzielę wiedzą </h2>
-
-Więcej info [tutaj](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.activities.md)
