@@ -33,7 +33,7 @@
 </div></strong>
 
 <b>#Hacktoberfest Badges</b>
-[![@bugitwhisperer's Holopin badges](https://holopin.me/bugITwhisperer)](https://holopin.io/@bugitwhisperer)
+[![@bugitwhisperer's Holopin badges](https://holopin.me/bugitwhisperer)](https://holopin.io/@bugitwhisperer#)
 
 <h3>2022</h3>
   <div id="2022">
