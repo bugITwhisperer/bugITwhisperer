@@ -14,7 +14,7 @@
     
 | Status | Type | Name | Trainer/Author | Organisation |
 | - | - | - | - | - |
-|🚧| self-paced course | [(PL)&nbsp;Automated Testing with&nbsp;Playwright (Playwright praktyczne wprowadzenie do testów automatycznych)](https://jaktestowac.pl/playwright/) | [Krzysztof Kijas](https://www.linkedin.com/in/krzysztof-kijas/), [Przemek Barański](https://www.linkedin.com/in/przemyslaw-baranski/) | [Future-Processing](https://www.future-processing.com/) |
+|🚧| self-paced course | [(PL)&nbsp;Automated Testing with&nbsp;Playwright (Program&nbsp;Testy Automatyczne z&nbsp;Playwright)](https://jaktestowac.pl/playwright/) | [Krzysztof Kijas](https://www.linkedin.com/in/krzysztof-kijas/), [Przemek Barański](https://www.linkedin.com/in/przemyslaw-baranski/) | [Future-Processing](https://www.future-processing.com/) |
 |🚧| self-paced course | [(PL)&nbsp;Continuous Integration -&nbsp;CI<br>(Ciągła Integracja w&nbsp;Chmurze)</br>](https://jaktestowac.pl/integracja/) | [Krzysztof Kijas](https://www.linkedin.com/in/krzysztof-kijas/), [Przemek Barański](https://www.linkedin.com/in/przemyslaw-baranski/) | [Future-Processing](https://www.future-processing.com/) |
 |✔️| Postman challenge | [(EN)&nbsp;15 Days of Postman - for testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview) | n/a | Postman |
 |✔️| award | the most active Discord member 07/2023 | me/Emilia Miller | [Adam Gola](https://www.linkedin.com/in/adamgola/)'s Discord&nbsp;Community|
