@@ -6,7 +6,7 @@
 ![TS](https://img.shields.io/badge/Framework-Playwright-323330?style=plastic&logo=Playwright&logoColor=F7DF1E&color=darkgray) with ![TS](https://img.shields.io/badge/Code-TypeScript-323330?style=plastic&logo=typescript&logoColor=F7DF1E&color=darkgray)
 </div>
 
-More learning-related activities [here](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.activities.md)
+More learning-related activities [here](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.learning-activities.md)
 
 <h2 align="left">:briefcase: Used @work</h2>
 <h3 align="left">:rainbow_flag: Languages && Frameworks </h3>
