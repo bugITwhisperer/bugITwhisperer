@@ -36,7 +36,10 @@ Used in previous project @work:
 ![Github](https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=gray&Color=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=blue&Color=white)
 ![GitLab](https://img.shields.io/badge/GitLabCI-5C2D91?style=plastic&logo=gitlab&logoColor=orange&Color=white)
+
 ![Docker](https://img.shields.io/badge/Docker-darkblue?style=plastic&logo=docker&logoColor=white)
+![DockerDesktop](https://img.shields.io/badge/DockerDesktop-darkblue?style=plastic&logo=docker&logoColor=white)
+
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-white?style=plastic&logo=opensearch&logoColor=4E9BCD&color=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-white?style=plastic&logo=sonarqube&logoColor=4E9BCD&color=white)
 </div>
