@@ -1,19 +1,23 @@
 # [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.md) [![pl](https://img.shields.io/badge/lang-pl-green.svg)](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.pl.md) Hey 👋
 
-<h2 align="left">:open_book: Currently learning</h2>
+<h2 align="left">:open_book: Currently practising on GitHub</h2>
 <div id="learning-now-badges">
   
 ![TS](https://img.shields.io/badge/Framework-Playwright-323330?style=plastic&logo=Playwright&logoColor=F7DF1E&color=darkgray) with ![TS](https://img.shields.io/badge/Code-TypeScript-323330?style=plastic&logo=typescript&logoColor=F7DF1E&color=darkgray)
 </div>
 
-More learning-related activities [here](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.learning-activities.md)
+More of my learning-related activities [here](https://github.com/bugITwhisperer/bugITwhisperer/blob/main/README.learning-activities.md)
 
-<h2 align="left">:briefcase: Used @work</h2>
+<h2 align="left">:briefcase: Currently in use | Used @work</h2>
 <h3 align="left">:rainbow_flag: Languages && Frameworks </h3>
 <div id="in-use-badges">
-  
+
+Currently in use @work:
+
 ![TS](https://img.shields.io/badge/Framework-Playwright-323330?style=plastic&logo=Playwright&logoColor=F7DF1E&color=darkgray) with ![TS](https://img.shields.io/badge/Code-TypeScript-323330?style=plastic&logo=typescript&logoColor=F7DF1E&color=darkgray)
-  
+
+Used in previous project @work:
+
 ![Cypress](https://img.shields.io/badge/Framework-Cypress-323330?style=plastic&logo=Cypress&logoColor=F7DF1E&color=darkgray) with ![JS](https://img.shields.io/badge/Code-JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E&color=darkgray)
 
 ![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E&color=darkgray) with ![C#](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=F7DF1E&color=darkgray)
