@@ -11,7 +11,9 @@ More learning-related activities [here](https://github.com/bugITwhisperer/bugITw
 <h2 align="left">:briefcase: Used @work</h2>
 <h3 align="left">:rainbow_flag: Languages && Frameworks </h3>
 <div id="in-use-badges">
-
+  
+![TS](https://img.shields.io/badge/Framework-Playwright-323330?style=plastic&logo=Playwright&logoColor=F7DF1E&color=darkgray) with ![TS](https://img.shields.io/badge/Code-TypeScript-323330?style=plastic&logo=typescript&logoColor=F7DF1E&color=darkgray)
+  
 ![Cypress](https://img.shields.io/badge/Framework-Cypress-323330?style=plastic&logo=Cypress&logoColor=F7DF1E&color=darkgray) with ![JS](https://img.shields.io/badge/Code-JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E&color=darkgray)
 
 ![RestSharp](https://img.shields.io/badge/Framework-RestSharp-323330?style=plastic&logo=restsharp&logoColor=F7DF1E&color=darkgray) with ![C#](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=F7DF1E&color=darkgray)
