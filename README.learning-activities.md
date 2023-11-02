@@ -22,7 +22,7 @@
 |✔️| book | [(EN)&nbsp;Leading Quality: How Great Leaders Deliver High Quality Software and Accelerate Growth](https://www.amazon.com/Leading-Quality-Leaders-Software-Accelerate/dp/1916185800) | Ronald Cummings-John, Owais Peer | n/a |
 |✔️| book | [(PL)&nbsp;Goal: Quality. How to avoid bugs in a project (Kierunek Jakość. Jak unikać błędów w projekcie)](https://helion.pl/ksiazki/kierunek-jakosc-jak-unikac-bledow-w-projekcie-aleksandra-kunysz,jaktob.htm) | [Aleksandra Kunysz](https://github.com/PeggyBrown) | n/a |
 |✔️| AI prompt hacking game | [(EN)&nbsp;Ready Player 50](https://cs50.harvard.edu/x/2023/ready/) | n/a | [Harvard University](https://cs50.harvard.edu) |
-|🚧|open-source contributions | [(EN)&nbsp;HacktoberFest 2023](https://hacktoberfest.com/) | me/Emilia Miller | DigitalOcean, ILLA Cloud and&nbsp;Appwrite |
+|✔️| open-source contributions | [(EN)&nbsp;HacktoberFest 2023](https://hacktoberfest.com/) | me/Emilia Miller | DigitalOcean, ILLA Cloud and&nbsp;Appwrite |
   </div>
 </div>
 
