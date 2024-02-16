@@ -12,11 +12,9 @@ More of my learning-related activities [here](https://github.com/bugITwhisperer/
 <h3 align="left">:rainbow_flag: Languages && Frameworks </h3>
 <div id="in-use-badges">
 
-Currently in use @work:
+Used in previous projects @work:
 
 ![TS](https://img.shields.io/badge/Framework-Playwright-323330?style=plastic&logo=Playwright&logoColor=F7DF1E&color=darkgray) with ![TS](https://img.shields.io/badge/Code-TypeScript-323330?style=plastic&logo=typescript&logoColor=F7DF1E&color=darkgray)
-
-Used in previous project @work:
 
 ![Cypress](https://img.shields.io/badge/Framework-Cypress-323330?style=plastic&logo=Cypress&logoColor=F7DF1E&color=darkgray) with ![JS](https://img.shields.io/badge/Code-JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E&color=darkgray)
 
